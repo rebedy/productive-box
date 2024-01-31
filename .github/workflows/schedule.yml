@@ -14,5 +14,5 @@ jobs:
         uses: rebedy/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 99d8da31b9f894acf9da418eb11583aaa
+          GIST_ID: https://gist.github.com/rebedy/9d8da31b9f894acf9da418eb11583aaa
           TIMEZONE: Asia/Seoul
